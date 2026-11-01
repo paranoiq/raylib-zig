@@ -12,8 +12,8 @@
             .hash = "N-V-__8AAJl1DwBezhYo_VE6f53mPVm00R-Fk28NPW7P14EQ",
         },
         .raylib = .{
-            .url = "git+https://github.com/raysan5/raylib#6.2",
-            .hash = "raylib-6.0.0-whq8uDpYOAVcH_KyOZ0--nYF1dEsjdQ5r4e9R24UkQOi",
+            .url = "git+https://github.com/paranoiq/raylib#bd72df302e36008ef3c68bf4cba9faa074fdeafa",
+            .hash = "raylib-6.0.0-whq8uKaCOAUryPYc4BjSHXuks7YQaYFvLn8XnCmciVSP",
         },
     },
     .minimum_zig_version = "0.17.0",
